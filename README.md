@@ -5,6 +5,6 @@ This project was created based on [Damian Pecke Beat Detector code](https://dami
 
 A small electronic piece must be ensambled to the Arduino to allow the connection of a sound source, and it is based on [Joao Claro's Arduino Beat Detector Project](https://create.arduino.cc/projecthub/Joao_Claro/arduino-beat-detector-d0a21f)
 
-(Demo here!)[https://youtu.be/9X-qiBkVQlo]
+[Demo here!](https://youtu.be/9X-qiBkVQlo)
 
 ![alt text](https://hackster.imgix.net/uploads/attachments/342866/biasing_for_input_arduino_RGQylLWDwo.jpg?auto=compress%2Cformat&w=900&h=675&fit=min "Joao Claro's project")
